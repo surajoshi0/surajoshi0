@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @surajoshi0
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on real-world project to get hand-on experience 
 - 📬 https://www.linkedin.com/in/suraj-joshi-594270249
 
 <!---
