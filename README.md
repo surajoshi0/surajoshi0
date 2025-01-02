@@ -32,11 +32,11 @@
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/0_surxj_0/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-<div>
-    <!-- Adding a smaller image aligned to the right -->
+<div style="margin-left: auto;">
+    <!-- Rightmost image -->
     <img src="https://github.com/surajoshi0/surajoshi0/blob/6ef8e3ec0e0501450b2fcc18225724576e821a68/picture.jpg" 
-         alt="Image Alt Text" 
-         style="width: 150px; height: auto; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-left: 60px;" />
+         alt="Right Side Image" 
+         style="width: 150px; height: auto; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
   </div>
 </div>
 
