@@ -36,7 +36,7 @@
     <!-- Adding a smaller image aligned to the right -->
     <img src="https://github.com/surajoshi0/surajoshi0/blob/6ef8e3ec0e0501450b2fcc18225724576e821a68/picture.jpg" 
          alt="Image Alt Text" 
-         style="width: 150px; height: auto; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-left: 20px;" />
+         style="width: 150px; height: auto; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-left: 60px;" />
   </div>
 </div>
 
