@@ -31,9 +31,6 @@
 <a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/suraj-joshi-594270249/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/0_surxj_0/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 
- <div>
-    <img src="download.jpg" alt="Image" width="300" />
-  </div>
   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=surajoshi0&show_icons=true&locale=en" alt="surajoshi0" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajoshi0&" alt="surajoshi0" /></p>
