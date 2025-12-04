@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Suraj Joshi</h1>
-<p>A passionate frontend developer from India</p>
+<p>A passionate frontend & Gen-AI developer from India</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
