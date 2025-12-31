@@ -169,43 +169,36 @@ $${\color{#AC3097}This \space profile \space is \space made \space by \space \co
 name: Suraj Joshi
 located_in: Dehradun, Uttarakhand
 current_job: Frontend Developer
-
 education:
-[
-  "Self-Taught Developer and Designer",
-  "Bachelor's in Computer Science Engineering"
-]
-
+  [
+    "Self-Taught Developer and Designer",
+    "Bachelor's in Computer Science Engineering",
+  ]
 company: India Space Lab
 
 fields_of_interests:
-[
-  "Web Development",
-  "Data Science",
-  "Machine Learning",
-  "UI/UX",
-  "Retrieval Augmented Generation",
-  "CSS"
-]
-
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "UI/UX",
+    "Retrieval Augmented Generation",
+    "CSS",
+  ]
 technical_background:
-[
-  "Full Stack Developer",
-  "Trainee",
-  "Intern - Developing AI-based solutions",
-  "Intern - Browser Extension Development"
-]
-
-currently_learning: ["Docker", "RAG", "Langchain"]
-
-2026 Goals:
-["Create 25+ Projects and learn at least 5–10 new Technologies."]
-
-hobbies:
-["Gaming", "Cinema", "Reading", "Art", "Sports"]
-
+  [
+    "Full Stack Developer",
+    "Intern - Machine Learning in Python",
+    "Intern - Developing AI-based solutions",
+    "Intern - Browser Extension Development",
+  ]
+  
+currently_learning: ["Docker, RAG, and Langchain"]
+2026 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+hobbies: ["Gaming", "Cinema", "Reading", "Art", "Sports"]
 ```
----  
+  
+---    
 
 ## 🧑‍💻 Skills
 
