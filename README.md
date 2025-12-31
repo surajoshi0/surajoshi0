@@ -161,41 +161,54 @@
   <span style="color:#AC3097;">📫 Connect & Contact</span>
 </h2>
 
-$${\color{#AC3097}This \space profile \space is \space made \space by \space \color{#FF99EE}Aarush \space Saboo \color{#56565E} \space with \space \color{red}❤️}$$ 
+$${\color{#AC3097}This \space profile \space is \space made \space by \space \color{#FF99EE}Suraj \space Joshi \color{#56565E} \space with \space \color{red}❤️}$$ 
 
 <h2> 😎 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
+<div align="center">
+
+<pre>
 name: Suraj Joshi
 located_in: Dehradun, Uttarakhand
 current_job: Frontend Developer
+
 education:
-  [
-    "Self-Taught Developer and Designer",
-    "Bachelor's in Computer Science Engineering",
-  ]
+[
+  "Self-Taught Developer and Designer",
+  "Bachelor's in Computer Science Engineering"
+]
+
 company: India Space Lab
 
 fields_of_interests:
-  [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Retrieval Augmented Generation",
-    "CSS",
-  ]
+[
+  "Web Development",
+  "Data Science",
+  "Machine Learning",
+  "UI/UX",
+  "Retrieval Augmented Generation",
+  "CSS"
+]
+
 technical_background:
-  [
-    "Full Stack Developer",
-    "Trainee",
-    "Intern - Developing AI-based solutions",
-    "Intern - Browser Extension Development",
-  ]
-  
-currently_learning: ["Docker, RAG, and Langchain"]
-2026 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Reading", "Art", "Sports"]
+[
+  "Full Stack Developer",
+  "Trainee",
+  "Intern - Developing AI-based solutions",
+  "Intern - Browser Extension Development"
+]
+
+currently_learning: ["Docker", "RAG", "Langchain"]
+
+2026 Goals:
+["Create 25+ Projects and learn at least 5–10 new Technologies."]
+
+hobbies:
+["Gaming", "Cinema", "Reading", "Art", "Sports"]
+</pre>
+
+</div>
 ```
   
 ---  
