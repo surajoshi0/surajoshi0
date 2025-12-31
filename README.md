@@ -75,14 +75,13 @@
 ## 👨🏻‍💻 Project Showcase
 
 <div align="center">
-  <a href="https://chromewebstore.google.com/detail/fgdbgpogmjcfhbifhhongdeidnnmnadb?utm_source=item-share-cb">
-    <img src="https://raw.githubusercontent.com/aarushsaboo/aarushsaboo/main/assets/promo.png" alt="YouTube Focus Mode Chrome Extension">
+    <img src=""C:\Users\Suraj\OneDrive\Pictures\Screenshots\recipe_gen.png"" alt="Smart Recipe Generator">
   </a>
 </div>
 
 <div align="center">
 
-### $${\textrm{A browser extension that transforms YouTube™ into a distraction-free workspace}}$$
+### $${\textrm{Search the recipe that you want with AI-Assisted Platform}}$$
 
 </div>
 
