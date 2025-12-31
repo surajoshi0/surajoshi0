@@ -75,7 +75,7 @@
 ## 👨🏻‍💻 Project Showcase
 
 <div align="center">
-    <img src=""C:\Users\Suraj\OneDrive\Pictures\Screenshots\recipe_gen.png"" alt="Smart Recipe Generator">
+    <img src="(https://www.google.com/imgres?q=smart%20recipe%20generator&imgurl=https%3A%2F%2Fsmart-recipe-generator.vercel.app%2F_next%2Fimage%3Furl%3D%252Fdemo.gif%26w%3D1280%26q%3D75&imgrefurl=https%3A%2F%2Fsmart-recipe-generator.vercel.app%2F&docid=JuTmct_8fk1gJM&tbnid=gYemqfgFJQ_7JM&vet=12ahUKEwizkOq-4OeRAxVTWHADHciqLR0QM3oECHwQAA..i&w=800&h=443&hcb=2&ved=2ahUKEwizkOq-4OeRAxVTWHADHciqLR0QM3oECHwQAA)" alt="Smart Recipe Generator">
   </a>
 </div>
 
