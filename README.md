@@ -144,24 +144,24 @@
 
 
 
-<!-- Stats & Activity Section -->
-<!-- <h2>
+ Stats & Activity Section 
+ <h2>
   <span style="color:#AC3097;">📊</span>
   <span style="color:#56565E;">Stats & Activity</span>
 </h2>
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=aarushsaboo&color=brightgreen&style=for-the-badge)](https://github.com/aarushsaboo)
+[![Profile Views](https://komarev.com/ghpvc/?username=aarushsaboo&color=brightgreen&style=for-the-badge)](https://github.com/surajoshi0)
 
-[![Extension Users](https://img.shields.io/badge/Extension_Users-40+-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/fgdbgpogmjcfhbifhhongdeidnnmnadb)
 
-</div> -->
-<!-- <h2>
+
+</div> 
+<<h2>
   <span style="color:#AC3097;">📫 Connect & Contact</span>
 </h2>
 
-$${\color{#AC3097}This \space profile \space is \space made \space by \space \color{#FF99EE}Aarush \space Saboo \color{#56565E} \space with \space \color{red}❤️}$$ -->
+$${\color{#AC3097}This \space profile \space is \space made \space by \space \color{#FF99EE}Aarush \space Saboo \color{#56565E} \space with \space \color{red}❤️}$$ 
 
 <h2> 😎 &nbsp;A Little Bit About Me and My Interests</h2>
 
