@@ -185,15 +185,15 @@ $${\color{#AC3097}This \space profile \space is \space made \space by \space \co
 <h2> 😎 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Aarush Saboo
-located_in: Thane, Maharashtra
-current_job: Frontend and Backend Developer
+name: Suraj Joshi
+located_in: Dehradun, Uttarakhand
+current_job: Frontend Developer
 education:
   [
     "Self-Taught Developer and Designer",
-    "Bachelor's in Information Technology",
+    "Bachelor's in Computer Science Engineering",
   ]
-company: Alpharithm Technologies
+company: India Space Lab
 
 fields_of_interests:
   [
@@ -208,14 +208,13 @@ technical_background:
   [
     "Full Stack Developer",
     "Trainee",
-    "Intern - Data Science & Machine Learning in Python",
     "Intern - Developing AI-based solutions",
     "Intern - Browser Extension Development",
   ]
   
-currently_learning: ["Docker, RAG, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Reading", "Art", "Comedy"]
+currently_learning: ["Docker, RAG, and Langchain"]
+2026 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+hobbies: ["Gaming", "Cinema", "Reading", "Art", "Sports"]
 ```
   
 ---  
