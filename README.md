@@ -164,13 +164,8 @@
 $${\color{#AC3097}This \space profile \space is \space made \space by \space \color{#FF99EE}Suraj \space Joshi \color{#56565E} \space with \space \color{red}❤️}$$ 
 
 <h2> 😎 &nbsp;A Little Bit About Me and My Interests</h2>
-<div align="center">
-<pre>
   
 ```yaml
-
-
-
 name: Suraj Joshi
 located_in: Dehradun, Uttarakhand
 current_job: Frontend Developer
@@ -210,9 +205,6 @@ hobbies:
 ["Gaming", "Cinema", "Reading", "Art", "Sports"]
 
 ```
-</pre>
-
-</div>  
 ---  
 
 ## 🧑‍💻 Skills
