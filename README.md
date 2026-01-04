@@ -22,12 +22,12 @@
 ## 💫 About Me
 
 ```javascript
-const jai = {
+const suraj = {
     pronouns: "He" | "Him",
-    code: ["JavaScript", "Java", "C++", "C", "Python"],
-    askMeAbout: ["Full Stack Development", "UI/UX Design", "3D Animation", "Graphic Design"],
+    code: ["C++", "JavaScript", "C", "Python"],
+    askMeAbout: ["Full Stack Development", "3D Animation", "Gen-AI"],
     technologies: {
-        frontend: ["React", "Vue.js", "HTML5", "CSS3", "SASS"],
+        frontend: ["React", "Vue.js", "HTML5", "CSS3", "SASS", "Langchain"],
         backend: ["Node.js", "Express.js", "Java Spring"],
         databases: ["MongoDB", "MySQL", "PostgreSQL"],
         design: ["Figma", "Adobe XD", "Photoshop", "Illustrator"],
@@ -36,7 +36,7 @@ const jai = {
         tools: ["Docker", "Git", "Postman", "VS Code"]
     },
     currentFocus: "Building innovative web applications with stunning UI/UX",
-    funFact: "I spend 2 hours rendering 7-second 3D animations and love every minute of it! 🎬"
+   funFact: "I spend hours fine-tuning UI details and frontend interactions—and enjoy every pixel of it."
 };
 ```
 
