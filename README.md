@@ -138,8 +138,10 @@ const suraj = {
   <a href="https://leetcode.com/u/darkkmatter20/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="35px">
   </a>
-  <a href="https://www.naukri.com/code360/profile/f0adf4d8-a4ab-40f9-a63f-0bf8c6d53a08" target="_blank">
-    <img src="https://img.shields.io/badge/-Coding%20Ninjas-DD6620?style=for-the-badge&logoColor=white" height="35px">
+ <a href="https://www.codechef.com/users/suraj_j20" target="_blank">
+  <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="35px">
+</a>
+
   </a>
   <a href="https://www.hackerrank.com/profile/surajjoshiimcool" target="_blank">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="35px">
